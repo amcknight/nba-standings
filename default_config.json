@@ -1,0 +1,6 @@
+{
+  "username": <mysql username>,
+  "password": <mysql password>,
+  "database": <mysql database name>,
+  "sockpath": <mysql socket path>
+}
